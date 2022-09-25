@@ -53,8 +53,8 @@ function FormFunction() {
                           name="campaignDescription"
                           value={campaignDescription}
                           onChange={event => setCampaignDescription(event.target.value)}
-                          rows="6"
-                          cols="20"
+                          rows={6}
+                          cols={20}
                           placeholder="Your campaign description..."
                           required>
                 </textarea>
