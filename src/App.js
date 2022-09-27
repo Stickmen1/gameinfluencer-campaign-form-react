@@ -1,5 +1,5 @@
 import Form from './Components/Form/Form';
-import FormFunction from './Components/Form/FormFunction.js';
+import FormFunction from './Components/Form/FormFunction.tsx';
 
 function App() {
   return (
